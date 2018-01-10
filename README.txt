@@ -1,13 +1,11 @@
 
 TITLE: 
-Usable - 100% Fully Responsive Free HTML5 Bootstrap Template
+Garash Temblate building
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co
+DESIGNED & DEVELOPED by Garash | software house
 
-Website: http://gettemplates.co/
-Twitter: http://twitter.com/gettemplatesco
-Facebook: http://facebook.com/gettemplatesco
+
 
 
 CREDITS:
